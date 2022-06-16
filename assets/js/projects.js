@@ -15,5 +15,20 @@ const projects = [
         "description": "an email spammer lol",
         "url": "https://github.com/OhFeel/email-spammer"
     },
+     {
+        "name": "Instagram auto meme poster",
+        "description": "auto meme poster for instagram",
+        "url": "https://github.com/OhFeel/instagram-auto-meme-poster"
+    },
+     {
+        "name": "Rickroll spam",
+        "description": "a rickroll spam opener",
+        "url": "https://github.com/OhFeel/Rickroll-spammer"
+    },
     
+   {
+        "name": "Lunabot",
+        "description": "a new discord bot named lunar (not done)",
+        "url": "lunarbot.tec"
+    },
 ]
