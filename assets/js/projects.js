@@ -29,6 +29,6 @@ const projects = [
    {
         "name": "Lunabot",
         "description": "a new discord bot named lunar (not done)",
-        "url": "lunarbot.tec"
+        "url": "lunarbot.tech"
     },
 ]
